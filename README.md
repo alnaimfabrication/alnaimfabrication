@@ -1,16 +1,18 @@
-## Hi there 👋
+# Al Naim Fabrication 🇸🇦
 
-<!--
-**alnaimfabrication/alnaimfabrication** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official profile for **Al Naim Fabrication**, a premier structural steel fabricator and PEB contractor operating out of Dammam, Eastern Province, Saudi Arabia.
 
-Here are some ideas to get you started:
+## About Us
+With 20+ years of engineering experience, we deliver end-to-end structural steel solutions, Pre-Engineered Buildings (PEB), commercial logistics warehouses, industrial hangars, and custom metalwork across Dammam, Riyadh, and the Kingdom of Saudi Arabia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Capabilities
+* **PEB & Steel Buildings:** Commercial warehouses, industrial hangars, and logistics yards.
+* **Car Parking Shades:** Best parking shades manufacturer in KSA (cantilever, arch & pyramid steel structures).
+* **Perimeter Fencing:** Heavy-duty boundary wall fencing, site enclosures, and security gates.
+* **Architectural Metalwork:** Code-compliant industrial safety railings, walkways, and custom handrails.
+
+## Contact & Details
+* 🌐 **Website:** https://alnaimfabrication.com/
+* 📍 **Location:** Dallah Industrial Area, Dammam, Saudi Arabia
+* 📞 **Phone / WhatsApp:** +966 56 919 3484
+* 📧 **Email:** info@alnaimfabrication.com
